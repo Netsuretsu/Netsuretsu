@@ -1,7 +1,7 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
 
 # Hello World!, I'm Constantin, a Beninese Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying cybersecurity at Epitech Cotonou<br>👨🏼‍💻 working as a web developer since 2022 <br>
+🛜 currently working as a work-study student at Future Studio, an innovation center, as a technical lead.<br>👨🏼‍🎓 studying cybersecurity at Epitech Cotonou<br>👨🏼‍💻 working as a web developer since 2022 <br>
 
 
 # 💻 Tech Stack:
