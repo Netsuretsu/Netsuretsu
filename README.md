@@ -1,7 +1,7 @@
 
 
 # Hello World!, I'm Constantin, a Beninese Web Developer 👋🏼:
-🛜 currently working as a work-study student at Future Studio, an innovation center, as a technical lead.<br>👨🏼‍🎓 studying cybersecurity at Epitech Cotonou<br>👨🏼‍💻 working as a web developer since 2022 <br>
+🛜 currently working as a work-study student at Future Studio, an innovation center, as a technical lead.<br>👨🏼‍🎓 doing a master's degree in cybersecurity at Epitech Cotonou<br>👨🏼‍💻 working as a web developer since 2022 <br>
 
 
 # 💻 Tech Stack:
